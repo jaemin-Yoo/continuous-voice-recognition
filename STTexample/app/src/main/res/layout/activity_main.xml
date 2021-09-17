@@ -39,15 +39,4 @@
         android:text="STOP STT"
         android:id="@+id/stop_STT"/>
 
-    <Button
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:text="START BACKGROUND"
-        android:id="@+id/start_bg"/>
-    <Button
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:text="STOP BACKGROUND"
-        android:id="@+id/stop_bg"/>
-
 </androidx.appcompat.widget.LinearLayoutCompat>
